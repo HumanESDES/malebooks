@@ -24,7 +24,7 @@ Afin de réunir cette somme, nous mettons en place les moyens suivants :
 
 ### Contribuer financièrement
 
-<a class="donatebtn" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=human%2eesdes%40gmail%2ecom&lc=FR&item_name=Human%27ESDES&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest"><img src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - la solution de paiement en ligne la plus simple et la plus sécurisée !" /></a>
+{% include donatebtn.html %}
 
 Contribuer financièrement, en faisant un don ici même ou en participant à la future campagne de crowdfuding, c'est nous permettre d'atteindre plus surement et plus rapidement notre objectif. Donnez le montant de votre choix et [contactez-nous](/contact/) pour obtenir plus d'informations.
 
