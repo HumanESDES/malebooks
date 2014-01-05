@@ -6,7 +6,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="/medias/favicon32.png">
+    <link rel="shortcut icon" href="/medias/favicon-32.png">
+    <link rel="icon" sizes="16x16 32x32 48x48 64x64" href="favicon.ico"/>
+    <!--[if IE]>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <![endif]-->
+    <!-- Optional: Android & iPhone-->
+    <link rel="apple-touch-icon-precomposed" href="/medias/favicon-152.png"/>
+    <!-- Optional: IE10 Tile.-->
+    <meta name="msapplication-TileColor" content="#FFFFFF"/>
+    <meta name="msapplication-TileImage" content="/medias/favicon-144.png"/>
+    <!-- Optional: ipads, androids, iphones, ...-->
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/medias/favicon-152.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/medias/favicon-144.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/medias/favicon-120.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/medias/favicon-114.png"/>
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/medias/favicon-72.png"/>
+    <link rel="apple-touch-icon-precomposed" href="/medias/favicon-57.png"/>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
 
@@ -17,14 +33,16 @@
     <![endif]-->
     <style type="text/css">
     body { padding-top: 70px;}
-    .brand { display: inline; height: .9em; }
+    .brand { display: inline; height: 1em; }
     .jumbotron img, .donatebtn, .onelogo { float: right; }
     .imgillus { width: 100%; text-align: center; }
     .imgillus img { max-width: 90%; border: 1px solid #333; }
+    .imgillus.noborder img { border: 0; }
     table.budget td, table.budget th { text-align: center; }
     table.budget td:first-child, table.budget th:first-child { text-align: left; }
     table tr:last-child { font-weight: bold; }
     table tr:last-child td:first-child { text-align: right; }
+    .navbar-brand { padding: 0; padding-top: 15px; }
     </style>
   </head>
 
@@ -39,7 +57,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="{% if page.lang == 'fr' %}/{% else %}/en/{% endif %}"><img src="/medias/logo-mlb30.png" height="16" alt="MALeBOOKS" /></a>
+          <a class="navbar-brand" href="{% if page.lang == 'fr' %}/{% else %}/en/{% endif %}"><img src="/medias/logo-mlb30.png" height="30" alt="MALeBOOKS" /></a>
         </div>
         <div class="navbar-collapse collapse">
             {% include menu.html %}

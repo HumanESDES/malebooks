@@ -5,6 +5,8 @@ title: MALeBOOKS, le projet
 slug: project
 ---
 
+<div class="imgillus noborder"><img src="/medias/logomalebooks.png" /></div>
+
 <legend>Le projet en détail</legend>
 
 * [Des liseuses électroniques au Mali ?](#intro)
@@ -77,6 +79,8 @@ __[Jokkolabs](http://jokkolabs.net)__, espace de coworking, centre de réflexion
 
 Jokkolabs est le partenaire local en charge de la liaison avec les bénéficiaires et les partenaires de terrain.
 
+__[CBM](http://blogueurs.ml)__, Communauté des Blogueurs du Mali est en charge de la distribution des liseuses aux utilisateurs finaux ainsi que de leur formation et du suivi régulier du projet.
+
 __[Volvo/Renault Trucks](http://www.renault-trucks.com/)__ soutient le projet moralement via des actions de promotions intra-groupe. Design Concept réalise le film promotionnel du projet.
 
 __[La Région Rhône-Alpes](http://www.rhonealpes.fr/)__ qui subventionne une partie projet.
@@ -85,7 +89,9 @@ __L’Union des associations de l’ESDES__ (UAE) qui participera financièremen
 
 __[L’ESDES](http://www.esdes.fr)__ est pilote de l’association par le biais de l’UAE. Elle est garante de l’équipe projet.
 
-<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a>
+__[roughman](http://www.roughman.fr)__ pour le logo.
+
+<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a>
 
 
 # <a name="besoins"></a>Besoins
