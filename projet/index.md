@@ -91,17 +91,103 @@ __[L’ESDES](http://www.esdes.fr)__ est pilote de l’association par le biais 
 
 __[roughman](http://www.roughman.fr)__ pour le logo.
 
-<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a>
+<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a>
 
 
 # <a name="besoins"></a>Besoins
 
-tbd.
+Bien que n'étant qu'un pilote, le projet n'en est pas moins ambitieux car il se propose de résoudre la majorité des étapes nécessaires à une mise à l'échelle.
+
+Cependant, grace à de nombreux partenaires très impliqués, __nos besoins financiers se limittent à l'achat de matériel__.
+
+{% include budget.html %}
+
+Les __besoins non financiers__ se résument ainsi:
+
+* Adaptation de [Kiwix](http://kiwix.org) (Wikipédia hors-ligne) pour utilisation sur liseuse: __Équipe Kiwix__.
+* Coopération technique pour installation de Kiwix sur les liseuses: __Fabricant liseuses__.
+* Identification, téléchargement, extraction, préparation des eBooks libres: __Équipe Kiwix__, __Jokkolabs__.
+* Partenariats avec les auteurs individuels et éditeurs (France) pour contenus additionnels: __Human'ESDES__, __Jokkolabs__.
+* Campagne de financement participatif: __Human'ESDES__.
+* Réalisation d'un petit film d'animation présentant le projet: __Design Concept__.
+* Partenariats avec les auteurs, autorités et éditeurs (Mali) pour contenus additionnels: __CBM__.
+* Définition d'un schéma de distribution et évaluation: __CBM__, __Jokkolabs__.
+* Organisation de la formation et remises des liseuses: __Jokkolabs__.
+* Identification, formation et remise aux établissement/individus bénéficiaires: __CBM__.
+* Suivi périodique et remontée des informations: __CBM__.
+* Maintenance équipements et outils: __Jokkolabs__.
+* Rapport d'évaluation et d'impact: __Human'ESDES__.
+* Communication au Mali et sur le Web: __CBM__.
+
 
 # <a name="distribution"></a>Sélection des bénéficiaires
 
-tbd.
+<img class="onelogo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mali_Regions.png/280px-Mali_Regions.png" />
+
+Les liseuses seront réparties en trois groupes :
+
+1. __18 liseuses__ seront distribués dans la zone de [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou), à raison de 3 liseuses par école dans 6 écoles différentes.
+1. __8 liseuses__ seront distribués dans la zone de [Tombouctou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou), à raison de 2 liseuses par école dans 4 écoles différentes.
+1. __4 liseuses__ seront distribués à des individus à [Bamako](https://fr.wikipedia.org/wiki/Bamako).
+
+__26 liseuses sur 30__ sont donc destinées à des __écoles rurales__. Elles seront remises au chef d'établissement qui désignera l'enseignant responsable de l'utilisation et du suivi.
+
+Les utilisateurs finaux seront donc des __élèves de 9<sup>ème</sup> année (14-15 ans)__ qui savent déjà lire (le programe de l'année précédente inclut la lecture de textes africains) ; ainsi que leur enseignant.
+
+Les écoles ne se verront pas distribuer de programme et seront _simplement_ formées à l'utilisation de la liseuse. Il leur sera cependant demandé de __laisser les élèves apporter les liseuses à la maison__ et d'organiser des _tours de garde_.
+
+__À Bamako, quatre jeunes étudiants du supérieur__ seront sélectionnés (par leur intérêt leur manque d'àcces à la lecture) et formés directement. Il est attendu que ceux-ci partagent également l'appareil avec leur entourage.
+
+### Formation de formateurs
+
+Une formation aura lieu à Jokkolabs où participeront :
+
+* L'équipe Human'ESDES et Jokkolabs.
+* Les deux délégués de CBM.
+* Les quatres jeunes bamakois sélectionnés.
+
+Cette formation portera sur :
+
+* Utilisation pratique et maintenance de la liseuse.
+* Utilisation et maintenance du chargeur solaire.
+* Navigation dans la (très large) bibliothèque de contenus.
+* Toutes les fonctionnalités de la liseuse.
+* Utilisation de Wikipédia sur la liseuse.
+* Mise à jour du contenu de la liseuse : modification de la bibliothèque.
+* Création de contenus pour la liseuse (conversion de formats).
+* Politique d'utilisation et de partage de la liseuse.
+* Indicateurs de suivi à collecter et outils s'y rapportant (discussions, extensions).
+* Remise des équipements et outils d'évaluation.
+
+Cette formation sera aussi l'occasion d'échanger sur le déroulement du projet, ses objectifs et ses possibles évolutions. Les participants seront les garants de l'évaluation du projet car ce sont eux qui collecteront les informations de suivi.
+
+### Formations niveau local
+
+Les deux délégués de la CBM effectueront chacun une __mission de formation et remise des liseuses__ dans les zones prédéfinies : Ségou et Tombouctou.
+
+Ils se rendront __successivement dans chacune des écoles__ choisies et reprendront le contenu de la formation qu'ils ont eux-même suivis. Les participants seront le chef d'établissement et les enseignants.
+
+Il est important de noter que les __écoles sélectionnées sont proches géographiquement__ afin de __créer une dynamique__ et de mieux __observer l'impact__ sur les élèves.
 
 # <a name="evaluation"></a>Évaluation du projet
 
-tbd.
+L'évaluation du projet s'effectue à trois niveaux :
+
+* Évaluation financière : un rapport sur les couts objectifs de mise en place du projet et une extrapolation sur une mise à échelle.
+* Collecte d'informations et indicateurs d'utilisation de la liseuse, des eBooks, etc effectuée par les enseignants et les bénéficiaires bamakois.
+* Suivi des bénéficiaires par la CBM puis aggrégation et analyse des indicateurs pour la production de statistiques brutes et d'un rapport sur le rapport utilisation/coût.
+
+### Suivi de l'utilisation
+
+Il est très important pour le projet de savoir si et __comment les liseuses sont utilisées__. En d'autres termes, est-ce pertinent de fournir des liseuses à ces élèves et étudiants ?
+
+Pour ce faire, les enseignants et les étudiants se verront remettre des __grilles à remplir sur l'utilisation__ qu'ils font de la liseuse : qui l'utilise, quand, quelle utilisation de la bibliothèque, quelle facilité d'accès aux eBooks, quels eBooks sont abandonnés, lesquels sont lus, etc. Ces documents seront mis en ligne une fois établis.
+
+Les délégués de la CBM auront pour responsabilité de __garder un contact régulier__ avec eux afin de s'assurer qu'__aucun souci tiers ne gène le déroulement du projet__. Cependant, si les liseuses ne sont __pas utilisées par manque d'intéret__ uniquement, c'est pour nous un indicateur.
+
+
+### Compilation des résultats
+
+Après une __période initiale de 6 mois__, éventuellement suivie d'ajustements puis une __seconde période de 6 mois__, nous collecterons et aggregeront toutes les données collectées afin de produire tous les indicateurs et de __partager (en ligne) les donnéees brutes__.
+
+Ces données nous permettrons d'établir un __rapport complet sur l'utilisation, la pertinence, l'impact et l'intérêt économique de la distribution de liseuses__.
