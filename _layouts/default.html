@@ -43,6 +43,23 @@
     table tr:last-child { font-weight: bold; }
     table tr:last-child td:first-child { text-align: right; }
     .navbar-brand { padding: 5px; padding-top: 15px; }
+
+    @media only print
+    {
+        body { margin: 0; padding: 0; }
+        .navbar,
+        .project legend:first-of-type,
+        .project ul:first-of-type,
+        .download-link {
+            display: none !important;
+        }
+        a:after { display: none !important; }
+        h1 { display: block; page-break-before: always; }
+        .break { display: block; page-break-before: always; }
+        .project h1:first-of-type { page-break-before: avoid; }
+        h2, h2 { page-break-before: auto; }
+        .project .imgillus img { width: 90%; }
+    }
     </style>
   </head>
 

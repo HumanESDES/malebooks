@@ -1,9 +1,10 @@
 ---
 layout: default
-lang: fr
-title: MALeBOOKS, le projet
+lang: en
+title: MALeBOOKS Project
 slug: project
 ---
+
 
 <div class="imgillus noborder"><img src="/medias/logomalebooks.png" /></div>
 
@@ -202,4 +203,4 @@ __Pour toute question__ concernant le projet, son déroulement, ses objectifs, u
 
 Les __informations à jour__ se trouvent sur notre site web <a href="http://www.malebooks.ml">www.MALeBOOKS.ml</a>.
 
-Pour __suivre notre actualité__, merci de vous abonner à notre compte Twitter [@eBooksML](https://twitter.com/eBooksML) ou facebook [Malebooks](https://facebook.com/Malebooks).
+Pour __suivre notre actualité__, merci de vous abonner à notre compte Twitter [@eBooksML](https://twitter.com/eBooksML) ou facebook [Malebooks](https://facebook.com/Malebooks)
