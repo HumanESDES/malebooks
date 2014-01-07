@@ -21,7 +21,7 @@ slug: project
 
 Au Mali, malgré la guerre et l’instabilité, tous s’accordent sur une faiblesse profonde qui empêche tout développement de s’accomplir : __l’inefficacité du système éducatif__.
 
-Sur un territoire grand comme deux fois la France, quatre fois moins peuplé, l’École, abandonné par l’État il y a plus de 20 ans ne produit aucun résultat. Corruption, salaires ridicules, exode rural, professeurs incompétent (issu du même système), désengagement des parents, la liste est longue. À tel point que les pays voisins, pourtant parmi les moins riches également n'en reconnaissent pas le baccalauréat.
+Sur un territoire grand comme deux fois la France, quatre fois moins peuplé, l’École, abandonnée par l’État il y a plus de 20 ans ne produit que peu de résultats. Corruption, salaires ridicules, exode rural, professeurs incompétents (issus du même système), désengagement des parents, la liste est longue. À tel point que les pays voisins, pourtant parmi les moins riches également n'en reconnaissent pas le baccalauréat.
 
 <div class="imgillus">
     <img src="/medias/bko-classroom.jpg" alt="Une salle de classe à Bamako"/>
@@ -37,9 +37,9 @@ D’une réflexion commune avec les associations de blogueurs, des membres du mi
 
 # <a name="pourquoi"></a>Pourquoi une liseuse ?
 
-La majorité des étudiants diplômés d’une maitrise au Mali n’ont jamais possédé de livre. Au mieux, ils ont reliés eux-mêmes les polycopiés de leurs cours à l’Université.
+La majorité des étudiants diplômés d’une maîtrise au Mali n’ont jamais possédé de livre. Au mieux, ils ont reliés eux-mêmes les polycopiés de leurs cours à l’Université.
 
-La lecture d’un roman est un luxe infini qui ouvre des perspectives étonnantes aux rares qui y ont accès : amélioration de la rédaction, amélioration du vocabulaire, ouverture sur le monde, meilleure culture générale, incitation à l’auto-reflexion, opportunités professionnelles, etc. __La lecture est un facteur de développement__.
+La lecture d’un roman est un luxe infini qui ouvre des perspectives étonnantes aux rares qui y ont accès : amélioration de la rédaction, amélioration du vocabulaire, ouverture sur le monde, meilleure culture générale, incitation à l’auto-réflexion, opportunités professionnelles, etc. __La lecture est un facteur de développement__.
 
 __Mais pourquoi une liseuse ?__ Pourquoi ne pas améliorer la situation de manière classique ; avec des livres ?
 
@@ -57,12 +57,12 @@ Notre projet consiste donc à mettre des liseuses à la disposition de jeunes ma
 C’est un projet de terrain, au contact des bénéficiaires, un test grandeur nature d’un modèle qui pourrait vraiment améliorer la situation des bénéficiaires.
 
 1. Acquisition de liseuses numériques.
-1. Élaboration d’une bibliothèque de contenus et remplissage des liseuses.
+1. Élaboration d’une bibliothèque de contenus et préparation des liseuses.
 1. Envoi des liseuses à Bamako.
-1. Formation des partenaires locaux
- 1. Identification des bénéficiaires
- 1. Mise en place d’une stratégie d’utilisation
- 1. Mise en place d’un canevas de contrôle/évaluation.
+1. Formation des partenaires locaux.
+ 1. Identification des bénéficiaires.
+ 1. Mise en place d’une stratégie d’utilisation.
+ 1. Mise en place d’un canevas de contrôle / évaluation.
 
 Comme détaillé ci-dessus, il ne s’agit pas d’un projet logistique mais bel et bien d’un pilote visant à documenter une stratégie éducative.
 
@@ -99,7 +99,7 @@ __[roughman](http://www.roughman.fr)__ pour le logo.
 
 Bien que n'étant qu'un pilote, le projet n'en est pas moins ambitieux car il se propose de résoudre la majorité des étapes nécessaires à une mise à l'échelle.
 
-Cependant, grace à de nombreux partenaires très impliqués, __nos besoins financiers se limittent à l'achat de matériel__.
+Cependant, grâce à de nombreux partenaires très impliqués, __nos besoins financiers se limitent à l'achat de matériel__.
 
 {% include budget.html %}
 
@@ -114,7 +114,7 @@ Les __besoins non financiers__ se résument ainsi:
 * Partenariats avec les auteurs, autorités et éditeurs (Mali) pour contenus additionnels: __CBM__.
 * Définition d'un schéma de distribution et évaluation: __CBM__, __Jokkolabs__.
 * Organisation de la formation et remises des liseuses: __Jokkolabs__.
-* Identification, formation et remise aux établissement/individus bénéficiaires: __CBM__.
+* Identification, formation et remise aux établissements / individus bénéficiaires: __CBM__.
 * Suivi périodique et remontée des informations: __CBM__.
 * Maintenance équipements et outils: __Jokkolabs__.
 * Rapport d'évaluation et d'impact: __Human'ESDES__.
@@ -133,11 +133,11 @@ Les liseuses seront réparties en trois groupes :
 
 __26 liseuses sur 30__ sont donc destinées à des __écoles rurales__. Elles seront remises au chef d'établissement qui désignera l'enseignant responsable de l'utilisation et du suivi.
 
-Les utilisateurs finaux seront donc des __élèves de 9<sup>ème</sup> année (14-15 ans)__ qui savent déjà lire (le programe de l'année précédente inclut la lecture de textes africains) ; ainsi que leur enseignant.
+Les utilisateurs finaux seront donc des __élèves de 9<sup>ème</sup> année (14-15 ans)__ qui savent déjà lire (le programme de l'année précédente inclut la lecture de textes africains) ; ainsi que leur enseignant.
 
 Les écoles ne se verront pas distribuer de programme et seront _simplement_ formées à l'utilisation de la liseuse. Il leur sera cependant demandé de __laisser les élèves apporter les liseuses à la maison__ et d'organiser des _tours de garde_.
 
-__À Bamako, quatre jeunes étudiants du supérieur__ seront sélectionnés (par leur intérêt leur manque d'àcces à la lecture) et formés directement. Il est attendu que ceux-ci partagent également l'appareil avec leur entourage.
+__À Bamako, quatre jeunes étudiants du supérieur__ seront sélectionnés (par leur intérêt leur manque d’accès à la lecture) et formés directement. Il est attendu que ceux-ci partagent également l'appareil avec leur entourage.
 
 ### Formation de formateurs
 
@@ -145,7 +145,7 @@ Une formation aura lieu à Jokkolabs où participeront :
 
 * L'équipe Human'ESDES et Jokkolabs.
 * Les deux délégués de CBM.
-* Les quatres jeunes bamakois sélectionnés.
+* Les quatre jeunes bamakois sélectionnés.
 
 Cette formation portera sur :
 
@@ -176,9 +176,9 @@ Il est important de noter que les __écoles sélectionnées sont proches géogra
 
 L'évaluation du projet s'effectue à trois niveaux :
 
-* Évaluation financière : un rapport sur les couts objectifs de mise en place du projet et une extrapolation sur une mise à échelle.
+* Évaluation financière : un rapport sur les coûts objectifs de mise en place du projet et une extrapolation sur une mise à échelle.
 * Collecte d'informations et indicateurs d'utilisation de la liseuse, des eBooks, etc effectuée par les enseignants et les bénéficiaires bamakois.
-* Suivi des bénéficiaires par la CBM puis aggrégation et analyse des indicateurs pour la production de statistiques brutes et d'un rapport sur le rapport utilisation/coût.
+* Suivi des bénéficiaires par la CBM puis agrégation et analyse des indicateurs pour la production de statistiques brutes et d'un rapport sur le rapport utilisation / coût.
 
 ### Suivi de l'utilisation
 
@@ -186,12 +186,12 @@ Il est très important pour le projet de savoir si et __comment les liseuses son
 
 Pour ce faire, les enseignants et les étudiants se verront remettre des __grilles à remplir sur l'utilisation__ qu'ils font de la liseuse : qui l'utilise, quand, quelle utilisation de la bibliothèque, quelle facilité d'accès aux eBooks, quels eBooks sont abandonnés, lesquels sont lus, etc. Ces documents seront mis en ligne une fois établis.
 
-Les délégués de la CBM auront pour responsabilité de __garder un contact régulier__ avec eux afin de s'assurer qu'__aucun souci tiers ne gène le déroulement du projet__. Cependant, si les liseuses ne sont __pas utilisées par manque d'intéret__ uniquement, c'est pour nous un indicateur.
+Les délégués de la CBM auront pour responsabilité de __garder un contact régulier__ avec eux afin de s'assurer qu'__aucun souci tiers ne gène le déroulement du projet__. Cependant, si les liseuses ne sont __pas utilisées par manque d’intérêt__ uniquement, c'est pour nous un indicateur.
 
 
 ### Compilation des résultats
 
-Après une __période initiale de 6 mois__, éventuellement suivie d'ajustements puis une __seconde période de 6 mois__, nous collecterons et aggregeront toutes les données collectées afin de produire tous les indicateurs et de __partager (en ligne) les donnéees brutes__.
+Après une __période initiale de 6 mois__, éventuellement suivie d'ajustements puis une __seconde période de 6 mois__, nous collecterons et synthétiserons toutes les données collectées afin de produire tous les indicateurs et de __partager (en ligne) les données brutes__.
 
 Ces données nous permettrons d'établir un __rapport complet sur l'utilisation, la pertinence, l'impact et l'intérêt économique de la distribution de liseuses__.
 
