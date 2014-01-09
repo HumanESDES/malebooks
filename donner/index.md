@@ -5,7 +5,7 @@ title: Donner
 slug: donate
 ---
 
-## Aidez nous à en faire un succès
+## Aider nous à faire de ce projet un succès
 
 Comme expliqué dans le [projet](/projet), notre objectif est de tester et étudier les avantages éducatifs et personnels concrêts de l'utilisation de liseuses numériques au Mali.
 
@@ -30,8 +30,8 @@ Contribuer financièrement, en faisant un don ici même ou en participant à la 
 
 Si vous souhaitez être informés de l'ouverture de la campagne de crowdfunding, merci de [nous laisser votre e-mail dans ce formulaire](https://docs.google.com/forms/d/1IyMNl48iBQ9YowF4UGZ9ky4oanqFCCaqKF9QMSt7I9o/viewform)
 
-### Contribuer du temps
+### Donner de votre temps
 
-Nous avons besoin de bras pour avancer plus vite et mieux. Les tâches à effectuer varient en fonction de l'avancement. Merci donc de [nous contacter](/contact/) pour en savoir plus en précisant où vous êtes et ce à quoi vous souhaiteriez participer.
+Nous avons besoin de bras _et de vos jambes_ pour avancer plus vite et mieux. Les tâches à effectuer varient en fonction de l'avancement. Merci donc de [nous contacter](/contact/) pour en savoir plus en précisant où vous êtes et ce à quoi vous souhaiteriez participer.
 
 __Nous avons besoin de publicité !__ Parlez du projet à vos proches, à vos amis, sur les réseaux sociaux ([Facebook](https://facebook.com/Malebooks), [Twitter](https://twitter.com/eBooksML)), etc. Lors de la campagne de crowdfunding, nous aurons besoin de l'aide de tous.
