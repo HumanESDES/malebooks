@@ -86,9 +86,7 @@ Jokkolabs est le partenaire local en charge de la liaison avec les bénéficiair
 
 __[CBM](http://blogueurs.ml)__, Communauté des Blogueurs du Mali est en charge de la distribution des liseuses aux utilisateurs finaux ainsi que de leur formation et du suivi régulier du projet.
 
-__[Volvo/Renault Trucks](http://www.renault-trucks.com/)__ soutient le projet moralement via des actions de promotions intra-groupe. Design Concept réalise le film promotionnel du projet.
-
-__[La Région Rhône-Alpes](http://www.rhonealpes.fr/)__ qui subventionne une partie projet.
+__Design Concept__ réalise le film promotionnel du projet.
 
 __L’Union des associations de l’ESDES__ (UAE) qui participera financièrement au budget et qui met à disposition de l’équipe projet une association en charge de la communication (réalisation de plaquette, flyers, logo etc.)
 
@@ -113,18 +111,18 @@ Les __besoins non financiers__ se résument ainsi:
 
 * Adaptation de [Kiwix](http://kiwix.org) (Wikipédia hors-ligne) pour utilisation sur liseuse: __Équipe Kiwix__.
 * Coopération technique pour installation de Kiwix sur les liseuses: __Fabricant liseuses__.
-* Identification, téléchargement, extraction, préparation des eBooks libres: __Équipe Kiwix__, __Jokkolabs__.
-* Partenariats avec les auteurs individuels et éditeurs (France) pour contenus additionnels: __Human'ESDES__, __Jokkolabs__.
+* Identification, téléchargement, extraction, préparation des eBooks libres: __Équipe Kiwix__, __Jokkolabs__, __Human'ESDES__.
+* Partenariats avec les auteurs individuels et éditeurs (France) pour contenus additionnels: __Human'ESDES__.
 * Campagne de financement participatif: __Human'ESDES__.
-* Réalisation d'un petit film d'animation présentant le projet: __Design Concept__.
+* Réalisation d'un petit film d'animation présentant le projet: __Design Concept__, __Human'ESDES__.
 * Partenariats avec les auteurs, autorités et éditeurs (Mali) pour contenus additionnels: __CBM__.
 * Définition d'un schéma de distribution et évaluation: __CBM__, __Jokkolabs__.
-* Organisation de la formation et remises des liseuses: __Jokkolabs__.
+* Organisation de la formation et remises des liseuses: __Human'ESDES__, __Jokkolabs__.
 * Identification, formation et remise aux établissements / individus bénéficiaires: __CBM__.
 * Suivi périodique et remontée des informations: __CBM__.
 * Maintenance équipements et outils: __Jokkolabs__.
 * Rapport d'évaluation et d'impact: __Human'ESDES__.
-* Communication au Mali et sur le Web: __CBM__.
+* Communication: __Human'ESDES__, __CBM__.
 
 
 # <a name="distribution"></a>Sélection des bénéficiaires
