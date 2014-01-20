@@ -21,8 +21,7 @@ slug: project
 
 Au Mali, malgré la guerre et l’instabilité, tous s’accordent sur une faiblesse profonde qui empêche tout développement de s’accomplir : __l’inefficacité du système éducatif__.
 
-Le Mali s'étend sur un territoire grand comme deux fois la France et pourtant quatre fois moins peuplé. 
-l’École, abandonnée par l’État il y a plus de 20 ans ne produit que peu de résultats. Corruption, salaires dérisoires, exode rural, professeurs inadaptés (issus du même système), désengagement des parents, et beaucoup d'autres facteurs expliquent cette inefficacité. A tel point que même les pays voisins, également parmi les moins riches ne reconnaissent pas le baccalauréat malien.
+Sur un territoire grand comme deux fois la France, quatre fois moins peuplé, l’École, abandonnée par l’État il y a plus de 20 ans ne produit que peu de résultats. Corruption, salaires dérisoires, exode rural, professeurs inadaptés (issus du même système), désengagement des parents, et beaucoup d'autres facteurs expliquent cette inefficacité. À tel point que même les pays voisins, également parmi les moins riches, n'en reconnaissent pas le baccalauréat.
 
 <div class="imgillus">
     <img src="/medias/bko-classroom.jpg" alt="Une salle de classe à Bamako"/>
@@ -46,7 +45,7 @@ __La lecture est un facteur de développement personnel__.
 
 __Mais pourquoi une liseuse ?__ Pourquoi ne pas améliorer la situation de manière classique ; avec des livres ?
 
-La liseuse électronique a plusieurs avantages inégalables :
+La liseuse électronique a plusieurs avantages indéniables :
 
 * Elle est légère (environ 200 grammes). Elle est donc beaucoup plus facile à transporter (tant en logistique qu’en coût) que quelques livres.
 * Elle possède une importante capacité de stockage : entre 2000 et 4000 livres.
@@ -57,24 +56,30 @@ durée de vie beaucoup plus longue qu’un livre.
 # <a name="le-projet"></a>Le projet
 Notre projet consiste donc à mettre des liseuses à la disposition de jeunes maliens ; pour qu’ils en tirent un bénéfice immédiat et réel.
 
-C’est un projet de "terrain" car il intègre une phase de formation des utilisateurs sur place. Ceci nous permettra également de vérifier la bonne transmission du matériel et de son contenu. 
-Il s'agit d'une action "pilote" permettant de mesurer l'utilité et l’impact des liseuses. c'est un test grandeur nature d’un modèle qui pourrait vraiment améliorer la situation des bénéficiaires.
+C’est un projet de _terrain_ car il intègre une phase de formation des utilisateurs sur place. Ceci nous permettra également de vérifier la bonne transmission du matériel et de son contenu.
+Il s'agit d'une action _pilote_ permettant de mesurer l'utilité et l’impact des liseuses. c'est un test grandeur nature d’un modèle qui pourrait vraiment améliorer la situation des bénéficiaires.
 
 Le projet se déroulera en quatre étapes :
 
 1. Acquisition de liseuses numériques.
-2. Élaboration d’une bibliothèque de contenus et préparation des liseuses.
-3. Envoi des liseuses à Bamako.
-4. Formation des partenaires locaux.
- A. Identification des bénéficiaires.
- B. Mise en place d’une stratégie d’utilisation.
- C. Mise en place d’un canevas de contrôle / évaluation.
+1. Élaboration d’une bibliothèque de contenus et préparation des liseuses.
+1. Envoi des liseuses à Bamako.
+1. Formation des partenaires locaux.
+ 1. Identification des bénéficiaires.
+ 1. Mise en place d’une stratégie d’utilisation.
+ 1. Mise en place d’un canevas de contrôle / évaluation.
 
 Comme détaillé ci-dessus, __il ne s’agit pas d’un projet logistique__ mais bel et bien d’une mission d'ensemble depuis le montage du projet en France jusqu'à la phase contrôle en passant par la distribution, la formation et l'utilisation des liseuses.
 
-L’élaboration de la liste des contenus est une étape cruciale, nous apprend Jokkolabs : “De nombreux projets ont échoués dans le temps car ils se focalisaient sur les contraintes matérielles : ordinateurs, Internet, etc. Ce qui fait la différence, c’est __le contenu__. Il doit être __abondant__, mais il doit aussi être __diversifié__ : les classiques francophones, la science-fiction contemporaine, les auteurs africains, etc.” C’est pourquoi nous envisageons trois types de contenu : tous les ebooks francophones du domaine public ou libre, l’encyclopédie Wikipédia, mais aussi une sélection de nouvelles et romans d’auteurs amateurs (non publiés) qui autoriseraient la distribution de leurs œuvres sur les liseuses du projet.
+L’élaboration de __la liste des contenus est une étape cruciale__, nous apprend Jokkolabs : <blockquote>“De nombreux projets ont échoués dans le temps car ils se focalisaient sur les contraintes matérielles : ordinateurs, Internet, etc. Ce qui fait la différence, c’est __le contenu__. Il doit être __abondant__, mais il doit aussi être __diversifié__ : les classiques francophones, la science-fiction contemporaine, les auteurs africains, etc.”</blockquote>
 
- La distribution est également une phase capitale car il faut cibler des endroits stratégiques afin d'avoir __un impact maximum__. Nous travaillons sur cet aspect en collaboration avec nos partenaires au Mali. Cependant, afin d'avoir un suivi efficace, nous envisageons de n'envoyer que quelques dizaines de liseuses dans des secteurs ciblés.
+C’est pourquoi nous envisageons __trois types de contenu__ :
+
+* tous les ebooks francophones du domaine public ou libre
+* l’encyclopédie Wikipédia
+* Une sélection de nouvelles et romans d’auteurs amateurs (non publiés) qui autoriseraient la distribution de leurs œuvres sur les liseuses du projet.
+
+La distribution est également une phase capitale car il faut cibler des endroits stratégiques afin d'avoir __un impact maximum__. Nous travaillons sur cet aspect en collaboration avec nos partenaires au Mali. Cependant, afin d'avoir un suivi efficace, nous envisageons de n'envoyer que __quelques dizaines de liseuses dans des secteurs ciblés__.
 
 __Techniquement__, des animateurs-formateurs seront formés à Bamako à l’utilisation de la liseuse, mais aussi à la gestion de son contenu. Il est également prévu de les former à la création de contenus pour la liseuses à partir de documents originaux (le ministère de l’éducation souhaite tester certains curriculums en ce sens). Ensuite, ces personnes formeront les utilisateurs directs (parfois en zones reculées) et leur remettront les liseuses ainsi qu’un mini panneau solaire avec câble USB pour la recharger.
 
