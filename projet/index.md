@@ -21,7 +21,8 @@ slug: project
 
 Au Mali, malgré la guerre et l’instabilité, tous s’accordent sur une faiblesse profonde qui empêche tout développement de s’accomplir : __l’inefficacité du système éducatif__.
 
-Sur un territoire grand comme deux fois la France, quatre fois moins peuplé, l’École, abandonnée par l’État il y a plus de 20 ans ne produit que peu de résultats. Corruption, salaires ridicules, exode rural, professeurs incompétents (issus du même système), désengagement des parents, la liste est longue. À tel point que les pays voisins, pourtant parmi les moins riches également n'en reconnaissent pas le baccalauréat.
+Le Mali s'étend sur un territoire grand comme deux fois la France et pourtant quatre fois moins peuplé. 
+l’École, abandonnée par l’État il y a plus de 20 ans ne produit que peu de résultats. Corruption, salaires dérisoires, exode rural, professeurs inadaptés (issus du même système), désengagement des parents, et beaucoup d'autres facteurs expliquent cette inefficacité. A tel point que même les pays voisins, également parmi les moins riches ne reconnaissent pas le baccalauréat malien.
 
 <div class="imgillus">
     <img src="/medias/bko-classroom.jpg" alt="Une salle de classe à Bamako"/>
@@ -29,17 +30,17 @@ Sur un territoire grand comme deux fois la France, quatre fois moins peuplé, l�
 </div>
 {% include break.html %}
 
-__Les écoles n’ont pas de bibliothèque__. Les bibliothèques publiques, liées à l’Université, se comptent sur les doigts de la main et sont très pauvres. Seulement deux universités dans tout le pays (la seconde n’a pas encore de diplômés).
+__Les écoles n’ont pas de bibliothèque__. Les bibliothèques publiques, liées à l’Université, sont peu nombreuses et très pauvres. Il n'y a d'ailleurs que deux universités dans tout le pays dont l'une d'elle n’a pas encore de diplômés).
 
-Fort de ce constat, nous avons demandé à Jokkolabs, un centre de réflexion et d’action sociale présent au Sénégal, au Mali, en France et au Burkina Faso de __réfléchir à des solutions concrètes__, directement applicable, à l'échelle des pénalisés du système.
+Fort de ce constat, nous avons demandé à Jokkolabs, un centre de réflexion et d’action sociale présent au Sénégal, au Mali, en France et au Burkina Faso de __réfléchir à des solutions concrètes__, directement applicables aux étudiants ayant un accès limité à l'éducation et à la culture.
 
-D’une réflexion commune avec les associations de blogueurs, des membres du ministère de l’éducation, des entrepreneurs et d’autres ONGs, __une solution a émergée : lire ; avec une liseuse__.
+D’une réflexion commune avec les associations de blogueurs, des membres du ministère de l’éducation, des entrepreneurs et d’autres ONGs, __une solution a émergée : lire... avec une liseuse__.
 
 # <a name="pourquoi"></a>Pourquoi une liseuse ?
 
 La majorité des étudiants diplômés d’une maîtrise au Mali n’ont jamais possédé de livre. Au mieux, ils ont reliés eux-mêmes les polycopiés de leurs cours à l’Université.
 
-La lecture d’un roman est un luxe qui ouvre des perspectives étonnantes aux rares qui y ont accès : amélioration de la rédaction, amélioration du vocabulaire, ouverture sur le monde, meilleure culture générale, incitation à l’auto-réflexion, opportunités professionnelles, etc.
+La lecture d’un roman est un luxe qui ouvre des perspectives étonnantes aux rares personnes qui y ont accès : amélioration de la rédaction, amélioration du vocabulaire, ouverture sur le monde, meilleure culture générale, incitation à l’autoréflexion, opportunités professionnelles...
 
 __La lecture est un facteur de développement personnel__.
 
@@ -47,34 +48,35 @@ __Mais pourquoi une liseuse ?__ Pourquoi ne pas améliorer la situation de mani�
 
 La liseuse électronique a plusieurs avantages inégalables :
 
-* Elle pèse peu. Elle est donc beaucoup plus facile à transporter (tant en logistique qu’en coût). Une liseuse est généralement plus légère qu’un livre.
-* Elle peut contenir des milliers de livres : entre 2000 et 4000 généralement.
-* Elle est robuste. Dans un environnement où tout se prête et se re-prête, une liseuse aura une
+* Elle est légère (environ 200 grammes). Elle est donc beaucoup plus facile à transporter (tant en logistique qu’en coût) que quelques livres.
+* Elle possède une importante capacité de stockage : entre 2000 et 4000 livres.
+* Elle est robuste. Dans un environnement où tout se prête et se re-prête, une liseuse aura une
 durée de vie beaucoup plus longue qu’un livre.
-* Bien que nécessitant une alimentation électrique, celle-ci consomme très peu. La liseuse peut être utilisée pendant des semaines d’affilées.
+* Bien que nécessitant une alimentation électrique, celle-ci consomme très peu. La liseuse a une autonomie d'environ un mois, ce qui est considérable.
 
 # <a name="le-projet"></a>Le projet
 Notre projet consiste donc à mettre des liseuses à la disposition de jeunes maliens ; pour qu’ils en tirent un bénéfice immédiat et réel.
 
-C’est un projet de terrain car il nous faudra nous rendre sur place afin de s'assurer de la bonne utilisation et de la bonne transmission des liseuses et de leur contenu, c'est un test grandeur nature d’un modèle qui pourrait vraiment améliorer la situation des bénéficiaires.
+C’est un projet de "terrain" car il intègre une phase de formation des utilisateurs sur place. Ceci nous permettra également de vérifier la bonne transmission du matériel et de son contenu. 
+Il s'agit d'une action "pilote" permettant de mesurer l'utilité et l’impact des liseuses. c'est un test grandeur nature d’un modèle qui pourrait vraiment améliorer la situation des bénéficiaires.
 
 Le projet se déroulera en quatre étapes :
 
 1. Acquisition de liseuses numériques.
-1. Élaboration d’une bibliothèque de contenus et préparation des liseuses.
-1. Envoi des liseuses à Bamako.
-1. Formation des partenaires locaux.
- 1. Identification des bénéficiaires.
- 1. Mise en place d’une stratégie d’utilisation.
- 1. Mise en place d’un canevas de contrôle / évaluation.
+2. Élaboration d’une bibliothèque de contenus et préparation des liseuses.
+3. Envoi des liseuses à Bamako.
+4. Formation des partenaires locaux.
+ A. Identification des bénéficiaires.
+ B. Mise en place d’une stratégie d’utilisation.
+ C. Mise en place d’un canevas de contrôle / évaluation.
 
-Comme détaillé ci-dessus, __il ne s’agit pas d’un projet logistique__ mais bel et bien d’un pilote visant à tester et documenter une stratégie éducative d'appui.
+Comme détaillé ci-dessus, __il ne s’agit pas d’un projet logistique__ mais bel et bien d’une mission d'ensemble depuis le montage du projet en France jusqu'à la phase contrôle en passant par la distribution, la formation et l'utilisation des liseuses.
 
-L’élaboration de la liste des contenus est cruciale, nous apprend Jokkolabs : “De nombreux projets ont échoués dans le temps car ils se focalisaient sur les contraintes matérielles : ordinateurs, Internet, etc. Ce qui fait la différence, c’est __le contenu__. Il doit être __abondant__, mais il doit aussi être __diversifié__ : les classiques francophones, la science-fiction contemporaine, les auteurs africains, etc.” C’est pourquoi nous envisageons trois types de contenu : tous les ebooks francophones du domaine public ou libre, l’encyclopédie Wikipédia, mais aussi une sélection de nouvelles et romans d’auteurs amateurs (non publiés) qui autoriseraient la distribution de leurs œuvres sur les liseuses du projet.
+L’élaboration de la liste des contenus est une étape cruciale, nous apprend Jokkolabs : “De nombreux projets ont échoués dans le temps car ils se focalisaient sur les contraintes matérielles : ordinateurs, Internet, etc. Ce qui fait la différence, c’est __le contenu__. Il doit être __abondant__, mais il doit aussi être __diversifié__ : les classiques francophones, la science-fiction contemporaine, les auteurs africains, etc.” C’est pourquoi nous envisageons trois types de contenu : tous les ebooks francophones du domaine public ou libre, l’encyclopédie Wikipédia, mais aussi une sélection de nouvelles et romans d’auteurs amateurs (non publiés) qui autoriseraient la distribution de leurs œuvres sur les liseuses du projet.
 
-Autre aspect délicat, la distribution : comment avoir __le plus grand impact possible__ avec un minimum de liseuses ? Nous travaillons cet aspect en collaboration avec nos partenaires au Mali mais envisageons déjà une répartition géographique assez large. Cependant, ce projet est un pilote ; nous prévoyons une échelle de __quelques dizaines de liseuses__ à l’heure actuelle.
+ La distribution est également une phase capitale car il faut cibler des endroits stratégiques afin d'avoir __un impact maximum__. Nous travaillons sur cet aspect en collaboration avec nos partenaires au Mali. Cependant, afin d'avoir un suivi efficace, nous envisageons de n'envoyer que quelques dizaines de liseuses dans des secteurs ciblés.
 
-__Techniquement__, des animateurs-formateurs seront formés à Bamako à l’utilisation de la liseuse, mais aussi à la gestion de son contenu. Il est également prévu de les former à la création de contenus pour la liseuses à partir de documents originaux (le ministère de l’éducation souhaite tester certains curriculums en ce sens). Ensuite, ces personnes formeront les bénéficiaires directs (parfois en zone reculées) et leur remettront les liseuses ainsi qu’un mini panneau solaire pour la recharger.
+__Techniquement__, des animateurs-formateurs seront formés à Bamako à l’utilisation de la liseuse, mais aussi à la gestion de son contenu. Il est également prévu de les former à la création de contenus pour la liseuses à partir de documents originaux (le ministère de l’éducation souhaite tester certains curriculums en ce sens). Ensuite, ces personnes formeront les utilisateurs directs (parfois en zones reculées) et leur remettront les liseuses ainsi qu’un mini panneau solaire avec câble USB pour la recharger.
 
 # <a name="partenaires"></a>Les partenaires
 
@@ -101,7 +103,7 @@ __[roughman](http://www.roughman.fr)__ pour le logo.
 
 # <a name="besoins"></a>Besoins
 
-Bien que n'étant qu'un pilote, le projet n'en est pas moins ambitieux car il se propose de mettre en œuvre les actions permettant de le reproduire à échelle facilement et avec une estimation précise des coûts.
+Bien que n'étant qu'un pilote, le projet n'en est pas moins ambitieux car il se propose de mettre en œuvre des actions facilement réalisables à grande échelle.
 
 Cependant, grâce à de nombreux partenaires très impliqués, __nos besoins financiers se limitent à l'achat de matériel__.
 
@@ -131,17 +133,17 @@ Les __besoins non financiers__ se résument ainsi:
 
 Les liseuses seront réparties en trois groupes :
 
-1. __12 liseuses__ seront distribués dans la zone de [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou), à raison de 2 liseuses par école dans 6 écoles différentes.
-1. __8 liseuses__ seront distribués dans la zone de [Tombouctou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou), à raison de 2 liseuses par école dans 4 écoles différentes.
-1. __10 liseuses__ seront distribués à des étudiants à [Bamako](https://fr.wikipedia.org/wiki/Bamako).
+1. __12 liseuses__ seront distribuées dans la zone de [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou), à raison de 2 liseuses par école dans 6 écoles différentes.
+1. __8 liseuses__ seront distribuées dans la zone de [Tombouctou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou), à raison de 2 liseuses par école dans 4 écoles différentes.
+1. __10 liseuses__ seront distribuées à des étudiants à [Bamako](https://fr.wikipedia.org/wiki/Bamako).
 
 __20 liseuses sur 30__ sont donc destinées à des __écoles rurales__. Elles seront remises au chef d'établissement qui désignera l'enseignant responsable de l'utilisation et du suivi.
 
 Les utilisateurs finaux seront donc des __élèves de 9<sup>ème</sup> année (14-15 ans)__ qui savent déjà lire (le programme de l'année précédente inclut la lecture de textes africains) ; ainsi que leur enseignant.
 
-Les écoles ne se verront pas distribuer de programme et seront _simplement_ formées à l'utilisation de la liseuse. Il leur sera cependant demandé de __laisser les élèves apporter les liseuses à la maison__ et d'organiser des _tours de garde_.
+Les écoles ne se verront pas distribuer de programme de lecture et seront _simplement_ formées à l'utilisation de la liseuse. Il leur sera cependant demandé de __laisser les élèves emporter les liseuses à la maison__ et d'organiser des _tours de garde_ du matériel.
 
-__À Bamako, dix jeunes étudiants du supérieur__ seront sélectionnés et formés directement, à différents niveaux d'études et dans diverses facultés. Les nombreux clubs et structures (comme le [Campus Numérique de la Francophonie](https://fr.wikipedia.org/wiki/Campus_num%C3%A9rique_francophone)) nous permettrons de repérer les étudiants intéressés par la lecture mais n'y ayant pas ou peu accès. Il est attendu que __ceux-ci partagent également l'appareil avec leur entourage__.
+__À Bamako, dix jeunes étudiants du supérieur__ de niveaux différents et issus de diverses facultés, seront sélectionnés et formés directement. Les nombreux clubs et structures (comme le [Campus Numérique de la Francophonie](https://fr.wikipedia.org/wiki/Campus_num%C3%A9rique_francophone)) nous permettrons de repérer les étudiants intéressés par la lecture mais n'y ayant pas ou peu accès. Il est attendu que __ceux-ci partagent également l'appareil avec leur entourage__.
 
 ### Formation de formateurs
 
@@ -180,13 +182,13 @@ Il est important de noter que les __écoles sélectionnées sont proches géogra
 
 L'évaluation du projet s'effectue à trois niveaux :
 
-* Évaluation financière : un rapport sur les coûts objectifs de mise en place du projet et une extrapolation sur une mise à échelle.
+* Évaluation financière : un rapport sur les coûts objectifs du projet et une extrapolation sur une mise en place à grande échelle.
 * Collecte d'informations et indicateurs d'utilisation de la liseuse, des eBooks, etc effectuée par les enseignants et les bénéficiaires bamakois.
 * Suivi des bénéficiaires par la CBM puis agrégation et analyse des indicateurs pour la production de statistiques brutes et d'un rapport sur le rapport utilisation / coût.
 
 ### Suivi de l'utilisation
 
-Il est très important pour le projet de __savoir si les liseuses sont utilisées et comment__ ? En d'autres termes, est-ce pertinent de fournir des liseuses à ces élèves et étudiants ?
+Il est très important pour le projet de __savoir si les liseuses sont utilisées et comment__ ? En d'autres termes, est-ce pertinent de fournir des liseuses à ces élèves?
 
 Pour ce faire, les enseignants et les étudiants se verront remettre des __grilles à remplir sur l'utilisation__ qu'ils font de la liseuse :
 
@@ -200,7 +202,7 @@ Pour ce faire, les enseignants et les étudiants se verront remettre des __grill
 
 Ces documents seront mis en ligne une fois établis.
 
-Les délégués de la CBM auront pour responsabilité de __garder un contact régulier__ avec eux afin de s'assurer qu'__aucun souci tiers ne gène le déroulement du projet__. Cependant, si les liseuses ne sont __pas utilisées par manque d’intérêt__ uniquement, c'est pour nous un indicateur.
+Les délégués de la CBM auront pour responsabilité de __garder un contact régulier__ avec les utilisateurs-évaluateurs afin de s'assurer qu'__aucun souci ne perturbe le déroulement du projet__. Cependant, si les liseuses ne sont __pas utilisées par manque d’intérêt__ uniquement, c'est pour nous un indicateur.
 
 
 ### Compilation des résultats
