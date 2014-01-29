@@ -93,7 +93,7 @@ Jokkolabs est le partenaire local en charge de la liaison avec les bénéficiair
 
 __[CBM](http://blogueurs.ml)__, Communauté des Blogueurs du Mali est en charge de la distribution des liseuses aux utilisateurs finaux ainsi que de leur formation et du suivi régulier du projet.
 
-__Design Concept__ réalise le film promotionnel du projet.
+__Malik Benaouda et Leo SkwireL__ réalise le motion design et graphic design du projet.
 
 __L’Union des associations de l’ESDES__ (UAE) qui participera financièrement au budget et qui met à disposition de l’équipe projet une association en charge de la communication (réalisation de plaquette, flyers, logo etc.)
 
@@ -101,7 +101,7 @@ __[L’ESDES](http://www.esdes.fr)__ est pilote de l’association par le biais 
 
 __[Kiwix](https://kiwix.org)__ est un logiciel libre de consultation de contenus hors-ligne (Wikipédia principalement) disponible pour de nombreuses plateformes (PC, Smartphone, etc).
 
-__[roughman](http://www.roughman.fr)__ pour le logo.
+__[roughman](http://www.roughman.fr)__ réalise le logo du projet.
 
 <a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
 
