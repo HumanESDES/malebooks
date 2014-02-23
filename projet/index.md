@@ -101,7 +101,7 @@ __[L’ESDES](http://www.esdes.fr)__ est pilote de l’association par le biais 
 
 __[Kiwix](https://kiwix.org)__ est un logiciel libre de consultation de contenus hors-ligne (Wikipédia principalement) disponible pour de nombreuses plateformes (PC, Smartphone, etc).
 
-__[roughman](http://www.roughman.fr)__ réalise le logo du projet.
+__[Roughman](http://www.roughman.fr)__ a réalisé le logo du projet.
 
 <a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
 
@@ -121,7 +121,7 @@ Les __besoins non financiers__ se résument ainsi:
 * Identification, téléchargement, extraction, préparation des eBooks libres: __Équipe Kiwix__, __Jokkolabs__, __Human'ESDES__.
 * Partenariats avec les auteurs individuels et éditeurs (France) pour contenus additionnels: __Human'ESDES__.
 * Campagne de financement participatif: __Human'ESDES__.
-* Réalisation d'un petit film d'animation présentant le projet: __Design Concept__, __Human'ESDES__.
+* Réalisation d'un petit film d'animation présentant le projet: __Malik Benaouda & Leo SkwireL__, __Human'ESDES__.
 * Partenariats avec les auteurs, autorités et éditeurs (Mali) pour contenus additionnels: __CBM__.
 * Définition d'un schéma de distribution et évaluation: __CBM__, __Jokkolabs__.
 * Organisation de la formation et remises des liseuses: __Human'ESDES__, __Jokkolabs__.
