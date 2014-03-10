@@ -93,7 +93,7 @@ Jokkolabs est le partenaire local en charge de la liaison avec les bénéficiair
 
 __[CBM](http://blogueurs.ml)__, Communauté des Blogueurs du Mali est en charge de la distribution des liseuses aux utilisateurs finaux ainsi que de leur formation et du suivi régulier du projet.
 
-__Malik Benaouda et Leo SkwireL__ réalise le motion design et graphic design du projet.
+__Malik Benaouda, Leo SkwireL et Thomas Blanc__ réalisent le motion design et graphic design du projet.
 
 __L’Union des associations de l’ESDES__ (UAE) qui participera financièrement au budget et qui met à disposition de l’équipe projet une association en charge de la communication (réalisation de plaquette, flyers, logo etc.)
 
