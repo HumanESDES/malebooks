@@ -1,0 +1,12 @@
+<table class="table table-striped budget">
+    <thead>
+        <legend>{% if page.lang == 'en' %}Hardware Budget (crowdfunding){% else %}Budget matériel (financement participatif){% endif %}</legend>
+        <tr><th>{% if page.lang == 'en' %}Item{% else %}Poste de dépenses{% endif %}</th><th>{% if page.lang == 'en' %}Quantity{% else %}Quantité{% endif %}</th><th>{% if page.lang == 'en' %}Unit Cost{% else %}Coût Unitaire{% endif %}</th><th>Total</th></tr>
+    </thead>
+    <tbody>
+        <tr><td>{% if page.lang == 'en' %}eReaders{% else %}Liseuses électroniques{% endif %}</td><td>30</td><td>80€</td><td>2 400€</td></tr>
+        <tr><td>{% if page.lang == 'en' %}MicroSD Card (32G){% else %}Carte MicroSD 32G{% endif %}</td><td>30</td><td>12€</td><td>360€</td></tr>
+        <tr><td>{% if page.lang == 'en' %}Mini Solar Chargers (1,200 mAh){% else %}Mini chargeurs solaires (1 200mAh){% endif %}</td><td>30</td><td>19€</td><td>570€</td></tr>
+        <tr><td colspan="3">TOTAL</td><td>3 550€</td></tr>
+    </tbody>
+</table>
