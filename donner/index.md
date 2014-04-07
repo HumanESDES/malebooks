@@ -73,7 +73,7 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
 
 ### Ce que nous allons faire :
 * Obtenir les liseuses, les chargeurs solaires et les cartes micros SD (c’est ce que vous financez).
-* Préparer une une bibliothèque numérique complète :
+* Préparer une bibliothèque numérique complète :
  * Plus de 2 500 livres du domaine public.
  * Des nouvelles d’auteurs amateurs.
  * Des textes d’écrivains acceptant d’ouvrir leurs ouvrages à nos bénéficiaires.
