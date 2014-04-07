@@ -112,7 +112,7 @@ Bien que n'étant qu'un pilote, le projet n'en est pas moins ambitieux car il se
 
 Cependant, grâce à de nombreux partenaires très impliqués, __nos besoins financiers se limitent à l'achat de matériel__.
 
-{% include budget.html %}
+{% include budgethw.html %}
 
 Les __besoins non financiers__ se résument ainsi:
 
@@ -138,17 +138,19 @@ Les __besoins non financiers__ se résument ainsi:
 
 Les liseuses seront réparties en trois groupes :
 
-1. __12 liseuses__ seront distribuées dans la zone de [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou), à raison de 2 liseuses par école dans 6 écoles différentes.
-1. __8 liseuses__ seront distribuées dans la zone de [Tombouctou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou), à raison de 2 liseuses par école dans 4 écoles différentes.
+1. __10 liseuses__ seront distribuées dans la zone de [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou), au sein d'un lycée, sous la responsabilité d'un professeur qui gèrera un groupe d'étudiants intéressés.
+1. __10 liseuses__ seront distribuées dans la zone de [Tombouctou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou), directement au sein d'une communauté. Nous sélectionnerons les bénéficiaires via des concours de rédaction. L'implication des radios locales nous aiderons à impliquer toute la communauté pour qu'elle sache ce qui est attendu des bénéficiaires.
 1. __10 liseuses__ seront distribuées à des étudiants à [Bamako](https://fr.wikipedia.org/wiki/Bamako).
 
-__20 liseuses sur 30__ sont donc destinées à des __écoles rurales__. Elles seront remises au chef d'établissement qui désignera l'enseignant responsable de l'utilisation et du suivi.
-
-Les utilisateurs finaux seront donc des __élèves de 9<sup>ème</sup> année (14-15 ans)__ qui savent déjà lire (le programme de l'année précédente inclut la lecture de textes africains) ; ainsi que leur enseignant.
-
-Les écoles ne se verront pas distribuer de programme de lecture et seront _simplement_ formées à l'utilisation de la liseuse. Il leur sera cependant demandé de __laisser les élèves emporter les liseuses à la maison__ et d'organiser des _tours de garde_ du matériel.
-
 __À Bamako, dix jeunes étudiants du supérieur__ de niveaux différents et issus de diverses facultés, seront sélectionnés et formés directement. Les nombreux clubs et structures (comme le [Campus Numérique de la Francophonie](https://fr.wikipedia.org/wiki/Campus_num%C3%A9rique_francophone)) nous permettrons de repérer les étudiants intéressés par la lecture mais n'y ayant pas ou peu accès. Il est attendu que __ceux-ci partagent également l'appareil avec leur entourage__.
+
+**Ces trois différentes approches** nous aiderons à comprendre ce qui est le plus pertinent :
+
+* Est-ce bénéfique de travailler avec les écoles ?
+* Est-ce que l'implication des communautés permet une meilleure utilisation des liseuses ?
+* Quel groupe d'age tire le meilleur profit des liseuses ?
+
+Les bénéficiaires **ne se verront pas distribuer de programme de lecture** et seront _simplement_ formées à l'utilisation de la liseuse. Nous ne voulons pas qu'ils lisent quelque chose, **nous voulons qu'ils apprennent à aimer lire**.
 
 ### Formation de formateurs
 

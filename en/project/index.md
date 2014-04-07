@@ -21,7 +21,7 @@ slug: project
 
 In Mali, despite war and instability, everyone agrees on a deep weakness that prevents development from happening: __ineffectiveness of the educational system__.
 
-On a surface twice as large as France with only one fourth of its population, the Education System, abandonned 20 years ago barely produces results. Corruption, preposterous wages, rural exodus, teacher’s lack of skills (trained within the same system), disengaging parents, etc. Reasons to fail abound. To the point that even neighboring countries, yet not richer than Mali, hardly recognize it's High School Diploma.
+On a surface twice as large as France with only one fourth of its population, the Education System, abandonned 20 years ago barely produces results. Corruption, ridiculous wages, rural exodus, teacher’s lack of skills (trained within the same system), disengaging parents, etc. Reasons to fail abound. To the point that even neighboring countries, yet not richer than Mali, hardly recognize it's High School Diploma.
 
 <div class="imgillus">
     <img src="/medias/bko-classroom.jpg" alt="Une salle de classe à Bamako"/>
@@ -113,7 +113,7 @@ While being just a pilot, the project has ambitious standards in that it aims at
 
 However, thanks to the numerous partners involved, our __financial needs are limited to Hardware procurements only__.
 
-{% include budget.html %}
+{% include budgethw.html %}
 
 __Non-financial needs__ summary:
 
@@ -139,17 +139,19 @@ __Non-financial needs__ summary:
 
 eReaders will be spread over three groups:
 
-1. __12 readers__ will be distributed in the [Ségou](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_S%C3%A9gou) Region, 2 readers to 6 different schools.
-1. __8 readers__ will be distributed in the [Timbuktu](https://fr.wikipedia.org/wiki/R%C3%A9gion_de_Tombouctou) Region, 2 readers to 4 different schools.
-1. __10 readers__ will be distributed to students in [Bamako](https://fr.wikipedia.org/wiki/Bamako).
-
-__20 out of 30 readers__ will be handed to __rural schools__. Those will be given to the School director who will choose one teacher responsible for the equipment, it's usage and the monitoring.
-
-End users will thus be __pupil of 9<sup>th</sup> grade (14-15 years old)__ who shall already be able to read (previous year's programme includes reading of african texts) as well as their teacher.
-
-Schools won't be given a reading programme buut will __only be trained on operating the devices__. We will ask them to __let pupils take the readers home__ and organise a rotating spell of duty.
+1. __10 readers__ will be distributed in the [Ségou](https://en.wikipedia.org/wiki/Segou) Region, all within one High School with a dedicated teacher and a pool of interested students.
+1. __10 readers__ will be distributed in the [Timbuktu](https://en.wikipedia.org/wiki/Timbuktu) Region, directly to young people within one community. Essay contests will help us identify beneficiaries and involvment of local radio stations will ensure the community supports them.
+1. __10 readers__ will be distributed to students in [Bamako](https://en.wikipedia.org/wiki/Bamako).
 
 __In Bamako, 10 University students__ from various levels and faculties will be selectioned and trained directly. We will use the numerous clubs and organisations (like the [Francophone Digital Campus](https://fr.wikipedia.org/wiki/Campus_num%C3%A9rique_francophone)) to find the most promising and needing ones. __We expect them  to share the reader with their relatives__.
+
+Those **three different approaches** will help us understand what makes the most sense in this context.
+
+* Is it revelant to work with Schools ?
+* Does the community-involvement help in using the devices ?
+* What age-group are the devices most benefical to ?
+
+**We won't provide any reading programme**. Readers will be filled with easy-to-access content and beneficiaries trained on using them. **We just want them to come to loving reading**.
 
 ### Trainers' training
 
@@ -182,7 +184,7 @@ CBM delegates will both execute a __training and distribution mission__ in their
 
 They will __iteratively go to each designated school__ and will re-run the training they attended themselves. Participants will be the School head and the teachers.
 
-It is important to note that __all schools will be geographicaly close to each others__ in order to __create a synergy_ and better __observe the impact__ on pupils.
+It is important to note that __all schools will be geographicaly close to each others__ in order to __create a synergy__ and better __observe the impact__ on people.
 
 # <a name="evaluation"></a>Project Evaluation
 
@@ -194,7 +196,7 @@ Evaluation takes place at three different levels:
 
 ### Usage Monitoring
 
-It is very important for the project to __know if the readers are being used and how__. In short, is it revelent to provide readers to those pupils ?
+It is very important for the project to __know if the readers are being used and how__. In short, is it revelent to provide readers to those people ?
 
 To do so, teachers will be given forms:
 
