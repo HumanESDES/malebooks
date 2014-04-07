@@ -4,9 +4,9 @@
         <tr><th>{% if page.lang == 'en' %}Item{% else %}Poste de dépenses{% endif %}</th><th>{% if page.lang == 'en' %}Quantity{% else %}Quantité{% endif %}</th><th>{% if page.lang == 'en' %}Unit Cost{% else %}Coût Unitaire{% endif %}</th><th>Total</th></tr>
     </thead>
     <tbody>
-        <tr><td>{% if page.lang == 'en' %}eReaders{% else %}Liseuses électroniques{% endif %}</td><td>30</td><td>80€</td><td>2 400€</td></tr>
-        <tr><td>{% if page.lang == 'en' %}MicroSD Card (32G){% else %}Carte MicroSD 32G{% endif %}</td><td>30</td><td>12€</td><td>360€</td></tr>
-        <tr><td>{% if page.lang == 'en' %}Mini Solar Chargers (1,200 mAh){% else %}Mini chargeurs solaires (1 200mAh){% endif %}</td><td>30</td><td>19€</td><td>570€</td></tr>
-        <tr><td colspan="3">TOTAL</td><td>3 550€</td></tr>
+        <tr><td>{% if page.lang == 'en' %}eReaders{% else %}Liseuses électroniques{% endif %}</td><td>30</td><td>{% if page.lang == 'en' %}$110{% else %}80€{% endif %}</td><td>{% if page.lang == 'en' %}$4,587{% else %}2 400€{% endif %}</td></tr>
+        <tr><td>{% if page.lang == 'en' %}MicroSD Card (32G){% else %}Carte MicroSD 32G{% endif %}</td><td>30</td><td>{% if page.lang == 'en' %}$17{% else %}12€{% endif %}</td><td>{% if page.lang == 'en' %}$500{% else %}360€{% endif %}</td></tr>
+        <tr><td>{% if page.lang == 'en' %}Mini Solar Chargers (1,200 mAh){% else %}Mini chargeurs solaires (1 200mAh){% endif %}</td><td>30</td><td>{% if page.lang == 'en' %}$26{% else %}19€{% endif %}</td><td>{% if page.lang == 'en' %}$792{% else %}570€{% endif %}</td></tr>
+        <tr><td colspan="3">TOTAL</td><td>{% if page.lang == 'en' %}$5,879{% else %}3 550€{% endif %}</td></tr>
     </tbody>
 </table>

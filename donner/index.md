@@ -5,7 +5,7 @@ title: Donner
 slug: donate
 ---
 
-<div style="width:100%; text-align:center"><iframe src="//player.vimeo.com/video/91094527" style="width:960px; height:540px;  " frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+<div class='embed-container'><iframe src='http://player.vimeo.com/video/91094527' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 **Human’ESDES** est une association loi 1901 basée à lyon (France). Nous souhaitons venir en aide aux pays et personnes en difficultés. Pour notre projet MALeBOOKS, nous travaillons avec [Jokkolabs](http://jokkolabs.net), un espace de co-working et de réflexion sociale au [Mali](http://fr.wikipedia.org/wiki/Mali).
 
@@ -13,9 +13,9 @@ slug: donate
 
 C’est un fait. C’est aussi un problème.
 
-L’envoi de livres n’est pas réalisable : trop lourd, trop difficile à sélectionner, trop compliqué à distribuer et à superviser, etc.
+L’envoi de livres n’est pas réalisable : trop lourd, trop cher, trop difficile à sélectionner, trop compliqué à distribuer et à superviser, etc.
 
-**Et si nous envoyions des liseuses electroniques à la place ?** Nous pourrions remplir chaque liseuse de milliers de livres. **Est-ce que ça aiderait ?**
+**Et si nous envoyions des liseuses électroniques à la place ?** Nous pourrions remplir chaque liseuse de milliers de livres. **Est-ce que ça aiderait ?**
 
 **Aidez-nous à réunir environ 3500€** et vous aurez la réponse après six mois d’études !
 
@@ -29,7 +29,7 @@ Nous sommes convaincus que la lecture est un facteur d’auto développement.
 * Nous voulons qu’ils **s’ouvrent l’esprit et se découvre une nouvelle passion**.
 
 
-<p style="text-align:center; color:green; font-weight:bold;">Nous voulons fournir des liseuses remplies de contenues à différents groupes de personnes qui en auraient l'utilité et voir ce qu'ils en tirent.</p>
+<p style="text-align:center; color:green; font-weight:bold;">Nous voulons fournir des liseuses remplies de contenus à différents groupes de personnes qui en auraient l'utilité et voir ce qu'ils en tirent.</p>
 
 * Est-ce qu’ils l’utilisent ?
 * Si ce n’est pas le cas, est-ce dû à un désintérêt ou un problème technique ?
@@ -40,7 +40,7 @@ Nous sommes convaincus que la lecture est un facteur d’auto développement.
 
 Nous savons à quel point il peut-être frustrant de faire un don sans avoir le contrôle sur quelles dépenses sont prioritaires ou non.
 
-C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à couvrir tous les coûts annexes (billets d'avions, formations, transports, taxes, logistique, etc).  Ils ne vous restent qu'à contribuer à l'achat des liseuses ; c'est motivant !
+C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à couvrir tous les coûts annexes (billets d'avions, formations, transports, taxes, logistique, etc).  Ils ne vous reste qu'à contribuer à l'achat des liseuses ; c'est motivant !
 
 {% include budgethw.html %}
 
@@ -61,14 +61,15 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
 
 <div class="col-md-4" style="text-align:center;">
     <h3>Donner par chèque</h3>
-    <p><strong>Association Human'ESDES</strong> (ordre du chèque)</p>
-    <p>Association Human'ESDES<br />23 place Carnot,<br />69002 Lyon, France</p>
-    <p>Tél. 06 61 89 47 71.</p>
+    <p><strong>Association Human'ESDES</strong> (ordre du chèque)<br />23 place Carnot,<br />69002 Lyon, France.</p>
+    <h3>Donner depuis le Mali</h3>
+    <p><img src="/medias/orange-money.png" /></p>
+    <p>Vous pouvez également passer nous voir à <strong><a href="http://www.openstreetmap.org/?mlat=12.66537&mlon=-7.96932#map=17/12.66537/-7.96932">Jokkolabs Bamako</a></strong></p>
 </div>
 
 </div>
 
-<p style="text-align:center;"><a class="btn btn-default btn-primary" href="https://facebook.com/Malebooks" role="button"><i class="glyphicon glyphicon-thumbs-up"></i> Aimer sur Facebook</a> <a class="btn btn-default btn-primary" href="https://twitter.com/intent/tweet?hashtags=eBooks%20mali&original_referer=&related=eBooksML&text=Support%20%40eBooksML%20and%20%40JokkoML%20to%20distribute%20%23eBooks%20in%20%23Mali%20and%20improve%20Reading%2BEducation&tw_p=tweetbutton&url=http%3A%2F%2Fmalebooks.ml" role="button"><i class="glyphicon glyphicon-retweet"></i> Partager sur Twitter</a></p>
+<p style="text-align:center;"><a class="btn btn-lg btn-primary" href="https://facebook.com/Malebooks" role="button"><i class="glyphicon glyphicon-thumbs-up"></i> Aimer sur Facebook</a> <a class="btn btn-lg btn-primary" href="https://twitter.com/intent/tweet?hashtags=eBooks%20mali&original_referer=&related=eBooksML&text=Aidez+%40eBooksML+et+%40JokkoML+%c3%a0+distribuer+des+liseuses+pleines+de+contenus+(libres)+au+%23Mali+!&tw_p=tweetbutton&url=http%3a%2f%2fmalebooks.ml%2fdonner" role="button"><i class="glyphicon glyphicon-retweet"></i> Partager sur Twitter</a></p>
 
 ### Ce que nous allons faire :
 * Obtenir les liseuses, les chargeurs solaires et les cartes micros SD (c’est ce que vous financez).
@@ -78,10 +79,10 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
  * Des textes d’écrivains acceptant d’ouvrir leurs ouvrages à nos bénéficiaires.
  * Des textes libres collectés sur Internet.
 * Ajouter **l’intégralité de Wikipédia** dans les liseuses en utilisant [Kiwix](http://kiwix.org). **Une première dans le domaine !**
-* Travailler avec nos partenaires sur le terrain pour la distribution le suivi-évaluation.
+* Travailler avec nos partenaires sur le terrain pour la distribution etc le suivi-évaluation.
 * Envoyer le tout à Bamako.
 * Réaliser **début septembre une formation à Bamako** avec nos partenaires pour finaliser la stratégie S&E.
-* Entamer la mission de distribution à [Bamako](http://fr.wikipedia.org/wiki/Bamako)) (Universitaires), [Ségou](http://fr.wikipedia.org/wiki/Ségou) (lycéens)  et [Tombouctou](http://fr.wikipedia.org/wiki/Tombouctou) (communautés).
+* Entamer la mission de distribution à [Bamako](http://fr.wikipedia.org/wiki/Bamako) (universitaires), [Ségou](http://fr.wikipedia.org/wiki/Ségou) (lycéens)  et [Tombouctou](http://fr.wikipedia.org/wiki/Tombouctou) (communautés).
 * Après 6 mois nous publierons un rapport détaillé sur l’utilisation des liseuses.
 
 ## Ils nous soutiennent
@@ -103,5 +104,5 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
 
 C'est notre première campagne de financement participatif. On fait sans-doute des erreurs, mais on est à l'écoute. N'hésitez pas si une information vous manque où que vous ayez des suggestions !
 
-Nous contacter : [human.esdes@gmail.com](mailto:human.esdes@gmail.com)
+Nous contacter : [human.esdes@gmail.com](mailto:human.esdes@gmail.com) ou <a href="tel:33661894771">06 61 89 47 71</a>.
 

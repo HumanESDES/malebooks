@@ -5,19 +5,15 @@
             <li{% if page.slug == 'donate' %} class="active"{% endif %}><a href="/en/donate">Donate</a></li>
             <li{% if page.slug == 'contact' %} class="active"{% endif %}><a href="/en/contact">Contact</a></li>
           </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="/">Français</a></li>
-            <li class="active"><a href="/en/">English</a></li>
-          </ul>
 {% else %}
           <ul class="nav navbar-nav">
             <li{% if page.slug == 'home' %} class="active"{% endif %}><a href="/">Accueil</a></li>
             <li{% if page.slug == 'project' %} class="active"{% endif %}><a href="/projet">Projet</a></li>
-            <li{% if page.slug == 'donate' %} class="active"{% endif %}><a href="/donner">Participer</a></li>
+            <li{% if page.slug == 'donate' %} class="active"{% endif %}><a href="/donner">Donner</a></li>
             <li{% if page.slug == 'contact' %} class="active"{% endif %}><a href="/contact">Contact</a></li>
           </ul>
-          <ul class="nav navbar-nav navbar-right">
-            <li class="active"><a href="/">Français</a></li>
-            <li><a href="/en/">English</a></li>
-          </ul>
 {% endif %}
+          <ul class="nav navbar-nav navbar-right">
+            <li {% if page.lang == 'fr' %} class="active"{% endif %}><a href="{% if page.slug == 'donate' %}/donner{% elsif page.slug == 'project' %}/projet{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">Français</a></li>
+            <li {% if page.lang == 'en' %} class="active"{% endif %}><a href="/en{% if page.slug == 'donate' %}/donate{% elsif page.slug == 'project' %}/project{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">English</a></li>
+          </ul>
