@@ -7,6 +7,8 @@ slug: donate
 
 <div class='embed-container'><iframe src='http://player.vimeo.com/video/89248142?title=0&amp;byline=0&amp;portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+<hr />
+
 **Human’ESDES** is a registered non-profit in Lyon, France. We work with  [Jokkolabs](http://jokkolabs.net) in [Mali](http://fr.wikipedia.org/wiki/Mali), a social-change hub and co-working space on the MALeBOOKS project.
 
 ## Mali (West Africa) desperately needs books.

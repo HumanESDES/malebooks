@@ -1,4 +1,5 @@
 <table class="table table-striped budget">
+    <caption>{% if page.lang == 'en' %}Campaign spans from April 1<sup>st</sup> to May 31<sup>st</sup>.{% else %}Collecte de dons du 1<sup>er</sup> avril au 31 mai.{% endif %}</caption>
     <thead>
         <legend>{% if page.lang == 'en' %}Hardware Budget (crowdfunding){% else %}Budget matériel (financement participatif){% endif %}</legend>
         <tr><th>{% if page.lang == 'en' %}Item{% else %}Poste de dépenses{% endif %}</th><th>{% if page.lang == 'en' %}Quantity{% else %}Quantité{% endif %}</th><th>{% if page.lang == 'en' %}Unit Cost{% else %}Coût Unitaire{% endif %}</th><th>Total</th></tr>
