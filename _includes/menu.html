@@ -4,6 +4,7 @@
             <li{% if page.slug == 'project' %} class="active"{% endif %}><a href="/en/project">Project</a></li>
             <li{% if page.slug == 'donate' %} class="active"{% endif %}><a href="/en/donate">Donate</a></li>
             <li{% if page.slug == 'contact' %} class="active"{% endif %}><a href="/en/contact">Contact</a></li>
+            <li{% if page.slug == 'donors' %} class="active"{% endif %}><a href="/en/donors">All Donors</a></li>
           </ul>
 {% else %}
           <ul class="nav navbar-nav">
@@ -11,9 +12,10 @@
             <li{% if page.slug == 'project' %} class="active"{% endif %}><a href="/projet">Projet</a></li>
             <li{% if page.slug == 'donate' %} class="active"{% endif %}><a href="/donner">Donner</a></li>
             <li{% if page.slug == 'contact' %} class="active"{% endif %}><a href="/contact">Contact</a></li>
+            <li{% if page.slug == 'donors' %} class="active"{% endif %}><a href="/donneurs">Ils ont donné</a></li>
           </ul>
 {% endif %}
           <ul class="nav navbar-nav navbar-right">
-            <li {% if page.lang == 'fr' %} class="active"{% endif %}><a href="{% if page.slug == 'donate' %}/donner{% elsif page.slug == 'project' %}/projet{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">Français</a></li>
-            <li {% if page.lang == 'en' %} class="active"{% endif %}><a href="/en{% if page.slug == 'donate' %}/donate{% elsif page.slug == 'project' %}/project{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">English</a></li>
+            <li {% if page.lang == 'fr' %} class="active"{% endif %}><a href="{% if page.slug == 'donate' %}/donner{% elsif page.slug == 'project' %}/projet{% elsif page.slug == 'donors' %}/donneurs{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">Français</a></li>
+            <li {% if page.lang == 'en' %} class="active"{% endif %}><a href="/en{% if page.slug == 'donate' %}/donate{% elsif page.slug == 'project' %}/project{% elsif page.slug == 'donors' %}/donors{% elsif page.slug == 'contact' %}/contact{% elsif page.slug == 'home' %}/{% else %}/{% endif %}">English</a></li>
           </ul>
