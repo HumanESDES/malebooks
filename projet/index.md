@@ -99,7 +99,7 @@ __L’Union des associations de l’ESDES__ (UAE) qui participera financièremen
 
 __[L’ESDES](http://www.esdes.fr)__ est pilote de l’association par le biais de l’UAE. Elle est garante de l’équipe projet.
 
-__[Kiwix](https://kiwix.org)__ est un logiciel libre de consultation de contenus hors-ligne (Wikipédia principalement) disponible pour de nombreuses plateformes (PC, Smartphone, etc).
+__[Kiwix](http://kiwix.org)__ est un logiciel libre de consultation de contenus hors-ligne (Wikipédia principalement) disponible pour de nombreuses plateformes (PC, Smartphone, etc).
 
 __[Roughman](http://www.roughman.fr)__ a réalisé le logo du projet.
 
