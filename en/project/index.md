@@ -100,7 +100,7 @@ __Union des associations de l’ESDES__ (UAE) provides financial support and a t
 
 __[ESDES Business School](http://www.esdes.fr)__ supervizes the project team. They vouch for the project.
 
-__[Kiwix](https://kiwix.org)__ a free multi-platform software for reading offline contents (mainly Wikipedia).
+__[Kiwix](http://kiwix.org)__ a free multi-platform software for reading offline contents (mainly Wikipedia).
 
 __[Roughman](http://www.roughman.fr)__ created the project logo.
 
