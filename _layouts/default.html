@@ -61,6 +61,16 @@
         .project .imgillus img { width: 90%; }
     }
     </style>
+    {% if page.slug == 'home' and page.lang == 'fr' %}
+    <script type="text/javascript">
+      var language = navigator.language ? navigator.language :
+           navigator.browserlanguage ? navigator.browserlanguage : 
+           navigator.systemLanguage ? navigator.systemLanguage : 
+           navigator.userLanguage ? navigator.userLanguage : 
+           '---';
+      if (language.indexOf('en') > -1) document.location.href = '/en/';
+    </script>
+    {% endif %}
   </head>
 
   <body class="{{ page.slug }}">
