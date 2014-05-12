@@ -100,6 +100,8 @@ This is why **we already raised $8,000** which will cover all the non-hardware c
 </div>
 </div>
 
+{% include supporters.md %}
+
 ## Let's Talk
 
 This is our first Indiegogo campaign, so please help us gear towards the right direction by dropping us a comment here. We'll do our best to answer quickly.
