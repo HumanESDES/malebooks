@@ -102,6 +102,8 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
 </div>
 </div>
 
+{% include supporters.md %}
+
 ## On vous écoute !
 
 C'est notre première campagne de financement participatif. On fait sans-doute des erreurs, mais on est à l'écoute. N'hésitez pas si une information vous manque où que vous ayez des suggestions !
