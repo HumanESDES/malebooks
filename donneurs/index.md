@@ -5,6 +5,9 @@ title: Ils ont donné
 slug: donors
 ---
 
+{% include progressbar.html %}
+
+
 {% include donors.html %}
 
 ## Ils nous soutiennent (autrement)

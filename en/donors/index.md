@@ -5,6 +5,8 @@ title: Donors List
 slug: donors
 ---
 
+{% include progressbar.html %}
+
 {% include donors.html %}
 
 ## They Give Us a hand
