@@ -7,6 +7,13 @@ slug: donate
 
 <div class='embed-container'><iframe src='http://player.vimeo.com/video/91094527?title=0&amp;byline=0&amp;portrait=0' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
+<div style="max-width:500px;text-align:center;margin:auto;">
+    <p style="font-size:2em;">55,7% de l'objectif atteint !</p>
+    <div class="progress progress-striped">
+      <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="56" aria-valuemin="0" aria-valuemax="100" style="width: 56%;"><span>1 978€ collectés sur 3 550€</span></div>
+    </div>
+</div>
+
 <hr />
 
 **Human’ESDES** est une association loi 1901 basée à lyon (France). Nous souhaitons venir en aide aux pays et personnes en difficultés. Pour notre projet MALeBOOKS, nous travaillons avec [Jokkolabs](http://jokkolabs.net), un espace de co-working et de réflexion sociale au [Mali](http://fr.wikipedia.org/wiki/Mali).
