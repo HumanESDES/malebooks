@@ -103,7 +103,7 @@ __[Kiwix](http://kiwix.org)__ est un logiciel libre de consultation de contenus 
 
 __[Roughman](http://www.roughman.fr)__ a réalisé le logo du projet.
 
-<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
+<a href="http://esdes.fr"><img src="/medias/esdes.png" height="80" /></a> <a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
 
 
 # <a name="besoins"></a>Besoins

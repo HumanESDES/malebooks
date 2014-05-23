@@ -104,7 +104,7 @@ __[Kiwix](http://kiwix.org)__ a free multi-platform software for reading offline
 
 __[Roughman](http://www.roughman.fr)__ created the project logo.
 
-<a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
+<a href="http://esdes.fr"><img src="/medias/esdes.png" height="80" /></a>  <a href="http://humanESDES.org"><img src="/medias/human-esdes.png" height="80" /></a> <a href="http://jokkolabs.net"><img src="/medias/jokkolabs.png" height="80" /></a> <a href="http://blogueurs.ml"><img src="/medias/cbm.png" height="80" /></a> <a href="http://kiwix.org"><img src="/medias/logo-kiwix.png" height="80" /></a> <a href="http://www.roughman.fr"><img src="/medias/roughman.png" height="80" /></a>
 
 
 # <a name="needs"></a>Needs
