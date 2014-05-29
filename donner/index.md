@@ -60,6 +60,9 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
     <h3>Donner via Paypal</h3>
     <p>{% include donatebtn.html %}</p>
     <p style="text-align:left;"><a href="https://paypal.com">Paypal</a> vous permet de nous envoyer un don direct en saisissant votre numéro de carte de paiement. C'est très simple et c'est en français.</p>
+    <h3>Donner des Ƀitcoin</h3>
+    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
+    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">

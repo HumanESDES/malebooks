@@ -57,6 +57,9 @@ This is why **we already raised $8,000** which will cover all the non-hardware c
     <h3>Donate via Paypal</h3>
     <p>{% include donatebtn.html %}</p>
     <p style="text-align:left;"><a href="https://paypal.com">Paypal</a> allows you to make a direct donation to us using your credit card.</p>
+    <h3>Donate Ƀitcoins</h3>
+    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
+    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">
