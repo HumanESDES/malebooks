@@ -10,7 +10,7 @@ slug: donate
 
 <hr />
 
-**Human’ESDES** est une association loi 1901 basée à lyon (France). Nous souhaitons venir en aide aux pays et personnes en difficultés. Pour notre projet MALeBOOKS, nous travaillons avec [Jokkolabs](http://jokkolabs.net), un espace de co-working et de réflexion sociale au [Mali](http://fr.wikipedia.org/wiki/Mali).
+**[Human’ESDES](http://humanesdes.org)** est une association loi 1901 basée à lyon (France). Nous souhaitons venir en aide aux pays et personnes en difficultés. Pour notre projet MALeBOOKS, nous travaillons avec [Jokkolabs](http://jokkolabs.net), un espace de co-working et de réflexion sociale au [Mali](http://fr.wikipedia.org/wiki/Mali).
 
 ## Le Mali a besoin de livres !
 
