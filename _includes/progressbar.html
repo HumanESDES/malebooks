@@ -1,6 +1,9 @@
-<div style="max-width:500px;text-align:center;margin:auto;">
-    <p style="font-size:2em;">105% {% if page.lang == 'en' %}of the goal reached!{% else %}de l'objectif atteint !{% endif %}</p>
-    <div class="progress progress-striped">
-      <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;"><span>3 722€ {% if page.lang == 'en' %} collected. Objective is {% else %}collectés sur {% endif %}3 550€</span></div>
+<div style="max-width:570px;text-align:center;margin:auto;">
+    <p style="font-size:2em;">{% if page.lang == 'en' %}We will send <strong id="total_devices">30?</strong> readers! Donate to increase!{% else %}Nous allons envoyer <strong id="total_devices">30?</strong> liseuses !<br /> Faîtes un don pour augmenter ce chiffre !{% endif %}</p>
+    <img src="/medias/extra-readers.png" />
+    <div class="progress progress-striped active">
+      <div class="progress-bar progress-bar-warning" id="progress_bar" role="progressbar" style="width: 30%;"><span><span id="extra_amount">0</span>€ collected.</span></div>
     </div>
+    {% if page.lang == 'en' %}<p>We already collected 3 550€ by May 31<sup>st</sup>, <strong>securing our initial goal of 30 readers</strong>. Because there is plenty of needs and time until we complete the digital library, you can <strong>Donate Now</strong> to <strong>Increase the Nb. of devices</strong> we will distribute in Mali. <strong>Each 110€</strong> will add up another device!</p>{% else %}
+    <p>Au 31 mai, nous avons déjà collecté 3 550€, <strong>assurant le financement de nos 30 liseuses</strong>. Parce que le besoin est immense et que l'on a encore du temps avant de terminer la bibliothèque de contenus, vous pouvez <strong>faire un don</strong> pour <strong>augmenter le nombre de liseuse</strong> que nous enverrons au Mali. <strong>Chaque 110€</strong> ajoute une liseuse au compteur !</p>{% endif %}
 </div>

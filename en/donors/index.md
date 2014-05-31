@@ -3,6 +3,7 @@ layout: default
 lang: en
 title: Donors List
 slug: donors
+amount: 326
 ---
 
 {% include progressbar.html %}

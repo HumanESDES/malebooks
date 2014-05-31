@@ -90,5 +90,77 @@
     </div>
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    {% if page.slug == 'donors' or page.slug == 'donate' %}
+    <script type="text/javascript">
+    var donation_url = "https://spreadsheets.google.com/feeds/list/1d-TcXe8WgeIYWy_PF-CxaNuTXiyRlBRb7S5CBtvDSQM/1226599848/public/values?alt=json";
+    $.get(donation_url, function (data) {
+        function getvalue(name) {
+            return parseFloat(data['feed']['entry'][0]['gsx$'+ name ]['$t'].replace(' ', '').replace(' ','').replace(',', '.'));
+        }
+        var total = getvalue('totalreceived');
+        var average = getvalue('average');
+        var goal = getvalue('goal');
+        var progress = getvalue('progress');
+        var fees = getvalue('fees');
+        var receivedaftertaxes = getvalue('receivedaftertaxes');
+        var extra = getvalue('extra');
+        var unit = getvalue('unit');
+        var nbextraunits = getvalue('nbextraunits');
+        var nbextrarounded = getvalue('nbextrarounded');
+        var totaldevices = getvalue('totaldevices');
+        var unitsobjective = getvalue('unitsobjective');
+        var unitsobjective = getvalue('unitsobjective');
+        var pcunits = getvalue('pcunits');
+        var last_update = new Date(data['feed']['updated']['$t']);
+        console.log("total: " + total);
+        console.log("average: " + average);
+        console.log("goal: " + goal);
+        console.log("progress: " + progress);
+        console.log("fees: " + fees);
+        console.log("receivedaftertaxes: " + receivedaftertaxes);
+        console.log("extra: " + extra);
+        console.log("unit: " + unit);
+        console.log("nbextraunits: " + nbextraunits);
+        console.log("nbextrarounded: " + nbextrarounded);
+        console.log("totaldevices: " + totaldevices);
+        console.log("totaldevices: " + totaldevices);
+        console.log("unitsobjective: " + unitsobjective);
+        console.log("pcunits: " + pcunits);
+
+        // update UI
+        $('#total_devices').html(totaldevices);
+        $('#extra_amount').html(extra);
+        $('#progress_bar').css('width', pcunits + '%');
+
+        {% if page.slug == 'donors' %}
+        // last update
+        console.log(last_update);
+        $('#last_update').html(last_update.toDateString());
+        // Update donors list
+        var table = $('#donors');
+        $.each(data['feed']['entry'], function (index, row) {
+            var tr = $('<tr/>');
+            var name = $('<td />');
+            name.html(row['gsx$nom']['$t']);
+            tr.append(name);
+            var country = $('<td />');
+            country.html(row['gsx$pays']['$t']);
+            tr.append(country);
+            var amount = $('<td />');
+            amount.html(row['gsx$montant']['$t']);
+            tr.append(amount);
+            var paydate = $('<td />');
+            paydate.html(row['gsx$date']['$t']);
+            tr.append(paydate);
+            var paytype = $('<td />');
+            paytype.html(row['gsx$depuis']['$t']);
+            tr.append(paytype);
+            table.append(tr);
+        });
+        table.append($('<tr><td colspan="5">{% if page.lang == 'en' %}Thank You !!{% else %}Merci !!{% endif %}</td></tr>'));
+        {% endif %}
+    });
+    </script>
+    {% endif %}
   </body>
 </html>
