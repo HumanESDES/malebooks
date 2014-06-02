@@ -49,20 +49,20 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
 
 <div class="row">
 <div class="col-md-4" style="text-align:center;">
-    <h3>Donner sur Indiegogo</h3>
+    <!-- <h3>Donner sur Indiegogo</h3>
     <p><a href="http://igg.me/at/malebooks"><img src="/medias/donate-fr.png" /></a></p>
     <p style="text-align:left;"><a href="http://igg.me/at/malebooks">Indiegogo</a> est une plateforme de financement participatif. En cliquant sur le lien ci-dessous, vous serez redirigé vers Indigogo où vous pourrez <strong>faire votre don en ligne</strong>.</p>
     <p style="text-align:left;">En fonction du montant que vous donnez, vous aurez droit à une contre-partie.</p>
-    <p style="text-align:left;"><strong>Attention</strong>, Indiegogo est en anglais. Bien que l'interface soit très claire, si l'anglais vous effraie, choisissez l'option chèque ou Paypal.</p>
+    <p style="text-align:left;"><strong>Attention</strong>, Indiegogo est en anglais. Bien que l'interface soit très claire, si l'anglais vous effraie, choisissez l'option chèque ou Paypal.</p> -->
+    <h3>Donner des Ƀitcoin</h3>
+    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
+    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">
     <h3>Donner via Paypal</h3>
     <p>{% include donatebtn.html %}</p>
     <p style="text-align:left;"><a href="https://paypal.com">Paypal</a> vous permet de nous envoyer un don direct en saisissant votre numéro de carte de paiement. C'est très simple et c'est en français.</p>
-    <h3>Donner des Ƀitcoin</h3>
-    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
-    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">
@@ -72,8 +72,8 @@ C'est pourquoi **nous avons déjà collecté 6 000€** qui nous serviront à c
     <p><img src="/medias/orange-money.png" /></p>
     <p>Vous pouvez également passer nous voir à <strong><a href="http://www.openstreetmap.org/?mlat=12.66537&mlon=-7.96932#map=17/12.66537/-7.96932">Jokkolabs Bamako</a></strong></p>
 </div>
-
 </div>
+<div class="row"><p style="text-align:center;">La campagne de financement participatif sur <a href="http://igg.me/at/malebooks">Indiegogo</a> est désormais terminée.</p></div>
 
 <p style="text-align:center;"><a class="btn btn-lg btn-primary" href="https://facebook.com/Malebooks" role="button"><i class="glyphicon glyphicon-thumbs-up"></i> Aimer sur Facebook</a> <a class="btn btn-lg btn-primary" href="https://twitter.com/intent/tweet?hashtags=eBooks%20mali&original_referer=&related=eBooksML&text=Aidez+%40eBooksML+et+%40JokkoML+%c3%a0+distribuer+des+liseuses+pleines+de+contenus+(libres)+au+%23Mali+!&tw_p=tweetbutton&url=http%3a%2f%2fmalebooks.ml%2fdonner" role="button"><i class="glyphicon glyphicon-retweet"></i> Partager sur Twitter</a></p>
 

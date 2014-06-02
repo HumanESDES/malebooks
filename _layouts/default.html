@@ -134,8 +134,18 @@
 
         {% if page.slug == 'donors' %}
         // last update
-        console.log(last_update);
-        $('#last_update').html(last_update.toDateString());
+        console.log("last_update: " + last_update);
+        {% if page.lang == 'en' %}
+        var date_str = last_update.toDateString();
+        {% else %}
+        var date_str = last_update.getDate().toString() + '/'
+                       + (last_update.getMonth() + 1).toString() + '/'
+                       + last_update.getFullYear().toString()
+                       + ' ' + last_update.getHours().toString() + 'h'
+                       + last_update.getMinutes().toString();
+        {% endif %}
+        console.log("date_str: " + date_str);
+        $('#last_update').html(date_str);
         // Update donors list
         var table = $('#donors');
         $.each(data['feed']['entry'], function (index, row) {

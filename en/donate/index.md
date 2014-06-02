@@ -47,19 +47,19 @@ This is why **we already raised $8,000** which will cover all the non-hardware c
 
 <div class="row">
 <div class="col-md-4" style="text-align:center;">
-    <h3>Donate on Indiegogo</h3>
+    <!-- <h3>Donate on Indiegogo</h3>
     <p><a href="http://igg.me/at/malebooks"><img src="/medias/donate-en.png" /></a></p>
     <p style="text-align:left;"><a href="http://igg.me/at/malebooks">Indiegogo</a> is a crowdfunding platform. By clicking this link, you will be redirected to Indigogo where you will be able to <strong>make a donation online</strong>.</p>
-    <p style="text-align:left;">Some perks are available depending on the amount you donate.</p>
+    <p style="text-align:left;">Some perks are available depending on the amount you donate.</p> -->
+    <h3>Donate Ƀitcoins</h3>
+    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
+    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">
     <h3>Donate via Paypal</h3>
     <p>{% include donatebtn.html %}</p>
     <p style="text-align:left;"><a href="https://paypal.com">Paypal</a> allows you to make a direct donation to us using your credit card.</p>
-    <h3>Donate Ƀitcoins</h3>
-    <p style="font-family: monospace; font-weight: bold;"><img src="/medias/bitcoin.png" /> <a href="bitcoin:1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ">1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ</a></p>
-    <p><img src="/medias/1CN1LojfPy8C3PHLwnhVaCaPiiHQsBbSXZ.png" /></p>
 </div>
 
 <div class="col-md-4" style="text-align:center;">
@@ -69,8 +69,9 @@ This is why **we already raised $8,000** which will cover all the non-hardware c
     <p><img src="/medias/orange-money.png" /></p>
     <p>You can also come and meet us at <strong><a href="http://www.openstreetmap.org/?mlat=12.66537&mlon=-7.96932#map=17/12.66537/-7.96932">Jokkolabs Bamako</a></strong></p>
 </div>
-
 </div>
+
+<div class="row"><p style="text-align:center;">The <a href="http://igg.me/at/malebooks">Indiegogo</a> crowdfunding campaign is now over.</p></div>
 
 <p style="text-align:center;"><a class="btn btn-lg btn-primary" href="https://facebook.com/Malebooks" role="button"><i class="glyphicon glyphicon-thumbs-up"></i> Like on Facebook</a> <a class="btn btn-lg btn-primary" href="https://twitter.com/intent/tweet?hashtags=eBooks%20mali&original_referer=&related=eBooksML&text=Help+%40eBooksML+and+%40JokkoML+to+distribute+content-full+eReaders+in+%23Mali!&tw_p=tweetbutton&url=http%3a%2f%2fmalebooks.ml%2fdonate" role="button"><i class="glyphicon glyphicon-retweet"></i> Share on Twitter</a></p>
 
