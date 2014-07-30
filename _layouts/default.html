@@ -92,7 +92,7 @@
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     {% if page.slug == 'donors' or page.slug == 'donate' %}
     <script type="text/javascript">
-    var donation_url = "https://spreadsheets.google.com/feeds/list/1d-TcXe8WgeIYWy_PF-CxaNuTXiyRlBRb7S5CBtvDSQM/1226599848/public/values?alt=json";
+    var donation_url = "https://spreadsheets.google.com/feeds/list/1d-TcXe8WgeIYWy_PF-CxaNuTXiyRlBRb7S5CBtvDSQM/1/public/values?alt=json";
     $.get(donation_url, function (data) {
         function getvalue(name) {
             return parseFloat(data['feed']['entry'][0]['gsx$'+ name ]['$t'].replace(' ', '').replace(' ','').replace(',', '.'));
